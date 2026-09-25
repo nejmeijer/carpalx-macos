@@ -158,3 +158,4 @@ this list!
 
 - June Kelly ([@JuneKelly](https://github.com/JuneKelly)), original author of
   Carpalx MacOS
+- Niels Meijer ([@nejmeijer](https://github.com/nejmeijer))
